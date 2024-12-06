@@ -10,6 +10,7 @@
 
 ## Rich Text Examples
 
+- ==Highlighted Text==
 - **Bold Text**
 - *Italic Text*
 - ~~Strikethrough Text~~
