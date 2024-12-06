@@ -7,6 +7,16 @@
 ##### This is a level 5 heading
 
 ---
+## Multiline Code Block
+
+```python
+# This is a sample Python code block
+def greet(name):
+    return f"Hello, {name}!"
+
+print(greet("World"))
+```
+
 
 ## Rich Text Examples
 
@@ -55,17 +65,6 @@ Use `inline code` for small code snippets.
 
 ---
 
-## Multiline Code Block
-
-```python
-# This is a sample Python code block
-def greet(name):
-    return f"Hello, {name}!"
-
-print(greet("World"))
-```
-
----
 
 ## Tables
 
