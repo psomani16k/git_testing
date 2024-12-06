@@ -10,7 +10,7 @@
 
 ## Rich Text Examples
 
-- ===50%===
+===50%===
 - ==Highlighted Text==
 - **Bold Text**
 - *Italic Text*
